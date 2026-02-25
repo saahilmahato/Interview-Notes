@@ -20,7 +20,7 @@ The name comes from **electrical circuit breakers** in your home: when there's a
      │                                              │
      │                                     after timeout period
      │                                              │
-     └──── success ──── [HALF-OPEN] ◄──────────────┘
+     └──── success ──── [HALF-OPEN] ◄───────────────┘
 ```
 
 ### 1. 🟢 CLOSED (Normal Operation)
